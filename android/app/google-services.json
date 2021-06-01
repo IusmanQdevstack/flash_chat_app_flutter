@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720248074987",
+    "project_id": "flash-chat-ac773",
+    "storage_bucket": "flash-chat-ac773.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720248074987:android:b9694220227d262695c4ae",
+        "android_client_info": {
+          "package_name": "com.qureshi.flash_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720248074987-g1ptqbnc408lj7apurapfbiu0vp6u9h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEEYBuRiIF9U6tF45zNdnZft9dGIz7Rbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720248074987-g1ptqbnc408lj7apurapfbiu0vp6u9h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
